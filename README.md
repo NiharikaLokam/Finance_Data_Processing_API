@@ -136,3 +136,18 @@ POST `/api/records`
 - Roles are predefined (ADMIN, ANALYST, VIEWER)
 - Only ADMIN can modify data
 - Simplified setup for demonstration purposes
+## 🎥 Demo Video
+
+👉 Watch project demo here:  
+https://drive.google.com/file/d/1Dfw2TK5UW6IR6LLS1y3YMz2eZ7xv7YgV/view?usp=drive_link
+
+---
+
+## 📌 Conclusion
+
+This project demonstrates:
+- Clean backend architecture
+- Role-based security
+- Data processing and aggregation
+- API design and validation
+
